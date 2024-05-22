@@ -1,0 +1,6 @@
+.form-group {
+    width: 500px;
+}
+.form-inline input[type="search"] {
+    width: 50px; /* Arama kutusunun genişliğini ayarlayın */
+}
